@@ -7,5 +7,5 @@ convertBtn.addEventListener('click', () => {
 });
 
 function sendURL(URL) {
-    window.location.href = `http://monke.zone:4000/download?URL=${URL}`;
+    window.location.href = `https://monke.zone:4000/download?URL=${URL}`;
 }
